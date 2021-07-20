@@ -58,9 +58,6 @@
                 </pluginRepository>
             </pluginRepositories>
         </profile>
-
-    </profiles>
-
     <activeProfiles>
         <activeProfile>nexus</activeProfile>
     </activeProfiles>
